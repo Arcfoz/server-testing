@@ -1,0 +1,1378 @@
+{
+  "shift_daily": [
+    {
+      "id": "a1b2c3d4-e5f6-4a7b-8c9d-0e1f2g3h4i5j",
+      "shift_code": "07001500",
+      "start_time": "07:00",
+      "end_time": "15:00",
+      "day_type": "Working Day",
+      "flexible_shift": "No",
+      "description": "Morning Shift 07:00 to 15:00",
+      "status": "Active",
+      "created_at": "2024-02-13T10:15:45Z"
+    },
+    {
+      "id": "b2c3d4e5-f6g7-5b8c-9d0e-1f2g3h4i5j6k",
+      "shift_code": "12002000",
+      "start_time": "12:00",
+      "end_time": "20:00",
+      "day_type": "Working Day",
+      "flexible_shift": "Yes",
+      "description": "Afternoon Shift 12:00 to 20:00",
+      "status": "Active",
+      "created_at": "2024-02-14T11:30:22Z"
+    },
+    {
+      "id": "c3d4e5f6-g7h8-6d9e-0f1g-2h3i4j5k6l7m",
+      "shift_code": "20000400",
+      "start_time": "20:00",
+      "end_time": "04:00",
+      "day_type": "Working Day",
+      "flexible_shift": "No",
+      "description": "Night Shift 20:00 to 04:00",
+      "status": "Active",
+      "created_at": "2024-02-15T14:45:33Z"
+    },
+    {
+      "id": "d4e5f6g7-h8i9-7e0f-1g2h-3i4j5k6l7m8n",
+      "shift_code": "09001700",
+      "start_time": "09:00",
+      "end_time": "17:00",
+      "day_type": "Working Day",
+      "flexible_shift": "Yes",
+      "description": "Standard Day Shift 09:00 to 17:00",
+      "status": "Inactive",
+      "created_at": "2024-02-16T09:20:11Z"
+    },
+    {
+      "id": "e5f6g7h8-i9j0-8f1g-2h3i-4j5k6l7m8n9o",
+      "shift_code": "06001400",
+      "start_time": "06:00",
+      "end_time": "14:00",
+      "day_type": "Working Day",
+      "flexible_shift": "No",
+      "description": "Early Morning Shift 06:00 to 14:00",
+      "status": "Active",
+      "created_at": "2024-02-17T07:55:44Z"
+    },
+    {
+      "id": "f6g7h8i9-j0k1-9g2h-3i4j-5k6l7m8n9o0p",
+      "shift_code": "14002200",
+      "start_time": "14:00",
+      "end_time": "22:00",
+      "day_type": "Working Day",
+      "flexible_shift": "Yes",
+      "description": "Late Afternoon Shift 14:00 to 22:00",
+      "status": "Active",
+      "created_at": "2024-02-18T13:40:55Z"
+    },
+    {
+      "id": "g7h8i9j0-k1l2-0h3i-4j5k-6l7m8n9o0p1q",
+      "shift_code": "10001800",
+      "start_time": "10:00",
+      "end_time": "18:00",
+      "day_type": "OFF",
+      "flexible_shift": "No",
+      "description": "Mid Morning Shift 10:00 to 18:00",
+      "status": "Inactive",
+      "created_at": "2024-02-19T16:15:33Z"
+    },
+    {
+      "id": "h8i9j0k1-l2m3-1i4j-5k6l-7m8n9o0p1q2r",
+      "shift_code": "16002400",
+      "start_time": "16:00",
+      "end_time": "00:00",
+      "day_type": "OFF",
+      "flexible_shift": "Yes",
+      "description": "Evening to Midnight Shift 16:00 to 00:00",
+      "status": "Active",
+      "created_at": "2024-02-20T18:30:22Z"
+    },
+    {
+      "id": "i9j0k1l2-m3n4-2j5k-6l7m-8n9o0p1q2r3s",
+      "shift_code": "05001300",
+      "start_time": "05:00",
+      "end_time": "13:00",
+      "day_type": "Working Day",
+      "flexible_shift": "No",
+      "description": "Very Early Shift 05:00 to 13:00",
+      "status": "Active",
+      "created_at": "2024-02-21T06:45:11Z"
+    },
+    {
+      "id": "j0k1l2m3-n4o5-3k6l-7m8n-9o0p1q2r3s4t",
+      "shift_code": "11001900",
+      "start_time": "11:00",
+      "end_time": "19:00",
+      "day_type": "Working Day",
+      "flexible_shift": "Yes",
+      "description": "Extended Morning Shift 11:00 to 19:00",
+      "status": "Inactive",
+      "created_at": "2024-02-22T12:10:44Z"
+    },
+    {
+      "id": "k1l2m3n4-o5p6-4l7m-8n9o-0p1q2r3s4t5u",
+      "shift_code": "15002300",
+      "start_time": "15:00",
+      "end_time": "23:00",
+      "day_type": "Working Day",
+      "flexible_shift": "No",
+      "description": "Late Afternoon to Night Shift 15:00 to 23:00",
+      "status": "Active",
+      "created_at": "2024-02-23T15:55:33Z"
+    },
+    {
+      "id": "l2m3n4o5-p6q7-5m8n-9o0p-1q2r3s4t5u6v",
+      "shift_code": "08001600",
+      "start_time": "08:00",
+      "end_time": "16:00",
+      "day_type": "Working Day",
+      "flexible_shift": "Yes",
+      "description": "Standard Early Shift 08:00 to 16:00",
+      "status": "Active",
+      "created_at": "2024-02-24T08:40:22Z"
+    },
+    {
+      "id": "m3n4o5p6-q7r8-6n9o-0p1q-2r3s4t5u6v7w",
+      "shift_code": "13002100",
+      "start_time": "13:00",
+      "end_time": "21:00",
+      "day_type": "Working Day",
+      "flexible_shift": "No",
+      "description": "Afternoon Extended Shift 13:00 to 21:00",
+      "status": "Inactive",
+      "created_at": "2024-02-25T14:25:55Z"
+    },
+    {
+      "id": "n4o5p6q7-r8s9-7o0p-1q2r-3s4t5u6v7w8x",
+      "shift_code": "18002400",
+      "start_time": "18:00",
+      "end_time": "02:00",
+      "day_type": "OFF",
+      "flexible_shift": "Yes",
+      "description": "Evening Extended Night Shift 18:00 to 02:00",
+      "status": "Active",
+      "created_at": "2024-02-26T19:15:44Z"
+    }
+  ],
+  "find_all_menu": [
+    {
+      "menu_id": "623b16e2-221f-4719-a450-709ee116943b",
+      "name": "Dashboard",
+      "parent": true,
+      "menu": true,
+      "to": "/dashboard",
+      "icon": "app:home-line",
+      "child": [
+        {
+          "menu_id": "058b2473-ddd2-4d62-bb36-126f711af484",
+          "name": "Admin",
+          "parent": false,
+          "menu": true,
+          "to": "/dashboard/admin",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "6b82d0a4-5af8-423b-a54a-7c9db63f80c5",
+          "name": "Partner",
+          "parent": false,
+          "menu": true,
+          "to": "/dashboard/partner",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        }
+      ],
+      "permission": []
+    },
+    {
+      "menu_id": "c033db23-7534-4635-a103-3ba7d53ffd4f",
+      "name": "Employee",
+      "parent": true,
+      "menu": true,
+      "to": "/employee",
+      "icon": "app:users-01",
+      "child": [
+        {
+          "menu_id": "c87f9c71-a6bf-4cdd-8c2b-4194124150dd",
+          "name": "Approval",
+          "parent": false,
+          "menu": true,
+          "to": "/employee/approvals",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "848c1d32-7167-4ff2-9444-52b0d17d7599",
+          "name": "Job Seeker List",
+          "parent": false,
+          "menu": true,
+          "to": "/employee/job-seeker",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "603bfd64-5c81-4538-9547-0297d836a900",
+          "name": "Employee List",
+          "parent": false,
+          "menu": true,
+          "to": "/employee/employed",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "d2250e53-9ed5-417c-b1a4-75ab5c2e2774",
+          "name": "Outsourcing",
+          "parent": false,
+          "menu": true,
+          "to": "/employee/outsourcing",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        }
+      ],
+      "permission": []
+    },
+    {
+      "menu_id": "7821ba5a-32a7-4053-8dd1-3f3d6967d731",
+      "name": "Partner",
+      "parent": true,
+      "menu": true,
+      "to": "/partner",
+      "icon": "building-05",
+      "child": [],
+      "permission": [
+        {
+          "action": "Create",
+          "status": true
+        },
+        {
+          "action": "Update",
+          "status": true
+        },
+        {
+          "action": "Delete",
+          "status": true
+        },
+        {
+          "action": "View",
+          "status": true
+        },
+        {
+          "action": "Reset",
+          "status": true
+        },
+        {
+          "action": "Approval",
+          "status": true
+        },
+        {
+          "action": "Blacklist",
+          "status": true
+        },
+        {
+          "action": "Export",
+          "status": true
+        }
+      ]
+    },
+    {
+      "menu_id": "f4630f22-4f12-438c-b52b-5006511c4242",
+      "name": "Jobs",
+      "parent": true,
+      "menu": true,
+      "to": "/job-posting",
+      "icon": "file-search-02",
+      "child": [
+        {
+          "menu_id": "68b7e4c6-c364-45d5-b669-47cd4e724478",
+          "name": "Job Posting Approval",
+          "parent": false,
+          "menu": true,
+          "to": "/job-posting/approval",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "58e2f4ad-f0c4-4a60-98d8-9ac080af6183",
+          "name": "Job Posting List",
+          "parent": false,
+          "menu": true,
+          "to": "/job-posting/list",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Import",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "24ee1c34-981e-4f90-a5fd-6fa01c8d7029",
+          "name": "Job Assignment",
+          "parent": false,
+          "menu": true,
+          "to": "/job-assignment",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "27879bd5-521f-4f70-a4d2-aa8538c7ccf8",
+          "name": "Job Fulfillment",
+          "parent": false,
+          "menu": true,
+          "to": "/jobs",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Reset",
+              "status": true
+            },
+            {
+              "action": "Approval",
+              "status": true
+            },
+            {
+              "action": "Blacklist",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        }
+      ],
+      "permission": []
+    },
+    {
+      "menu_id": "ef83e62f-ab23-42d8-82cd-ac3aa6c52734",
+      "name": "Management",
+      "parent": true,
+      "menu": true,
+      "to": "/manage",
+      "icon": "app:settings-03",
+      "child": [
+        {
+          "menu_id": "abc74ed9-b4c0-4a27-b7a6-9d79217bb1e5",
+          "name": "Onboarding",
+          "parent": false,
+          "menu": true,
+          "to": "/manage/onboarding",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "a5f1ecf3-e707-4150-9c6b-cc9e714c8992",
+          "name": "Banner",
+          "parent": false,
+          "menu": true,
+          "to": "/manage/banner",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "3824fa30-0c5f-4d7b-86ca-76b76fc5abc1",
+          "name": "News/Article",
+          "parent": false,
+          "menu": true,
+          "to": "/manage/article",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "4646d40f-2012-4e43-825b-81edffecc01c",
+          "name": "Testimonial",
+          "parent": false,
+          "menu": true,
+          "to": "/manage/testimony",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "c5301d67-634a-4e4b-9a36-95c9ce345dce",
+          "name": "FAQ",
+          "parent": false,
+          "menu": true,
+          "to": "/manage/faq",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "63a72550-44d4-435d-b9a1-c6931558be84",
+          "name": "Contact",
+          "parent": false,
+          "menu": true,
+          "to": "/manage/contact",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            }
+          ]
+        }
+      ],
+      "permission": []
+    },
+    {
+      "menu_id": "bd633d77-1af6-4113-aecd-3a075ccf4cc5",
+      "name": "Master Data",
+      "parent": true,
+      "menu": true,
+      "to": "/master-data",
+      "icon": "app:database-01",
+      "child": [
+        {
+          "menu_id": "a0aa3512-c95e-4e9d-8d61-7f8822df49a8",
+          "name": "Education Level",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/education",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "997307d4-9f06-42a1-bb5e-50e7eeba18b9",
+          "name": "Religion",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/religion",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "854a32b2-0cd3-42eb-b638-27b7e0fb51a0",
+          "name": "Language Skill",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/language-skills",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "eab6f1bd-d512-41ad-afed-8c7abcd04282",
+          "name": "Bank",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/bank",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "102799d7-774c-4922-a35d-ed2cc1e6b47d",
+          "name": "Employment Type",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/employment",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "1c442471-3ca9-482c-aa46-e2e4bfc9dd32",
+          "name": "Salary Type",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/salary",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "12c31c44-3b64-4f49-b82f-1d896cd8af39",
+          "name": "Job Function",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/job-function",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "c0c87d3b-e6f3-4e7e-b289-fb75424bd7aa",
+          "name": "Job Title",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/job-title",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "819fa8c2-58e2-4808-a61b-406d2b807cc5",
+          "name": "Work Location",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/work-location",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Import",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "4f6a3b9e-9c4a-4e3d-8f6c-2a5b1d9e7f1a",
+          "name": "Shift Daily",
+          "parent": false,
+          "menu": true,
+          "to": "/master-data/shift-daily",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Import",
+              "status": true
+            }
+          ]
+        }
+      ],
+      "permission": []
+    },
+    {
+      "menu_id": "99f821a3-4cce-4f77-8e17-0afde7cb9a67",
+      "name": "User",
+      "parent": true,
+      "menu": true,
+      "to": "/manage-user",
+      "icon": "app:users-01",
+      "child": [
+        {
+          "menu_id": "25e24627-241d-4f7c-b269-4b9f0b3246d0",
+          "name": "List",
+          "parent": false,
+          "menu": true,
+          "to": "/manage-user/users",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Change Password",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "aff8500f-8216-42a9-a071-90fa527af4a8",
+          "name": "Role",
+          "parent": false,
+          "menu": true,
+          "to": "/manage-user/roles",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "2d622b46-f428-4df6-be47-b1da8b3aecba",
+          "name": "Permissions",
+          "parent": false,
+          "menu": true,
+          "to": "/manage-user/permissions",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Create",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "Delete",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        }
+      ],
+      "permission": []
+    },
+    {
+      "menu_id": "f6cd21a4-0f7d-4103-92ef-a6fe3e0451f9",
+      "name": "Report",
+      "parent": true,
+      "menu": true,
+      "to": "/report",
+      "icon": "app:file-05",
+      "child": [
+        {
+          "menu_id": "2f0b00e8-0cdd-44a4-84a1-0144eb3d5a70",
+          "name": "Attendance",
+          "parent": false,
+          "menu": true,
+          "to": "/report/attendance",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "6107b929-f710-4c38-b524-f552fa7c4fc4",
+          "name": "Performance",
+          "parent": false,
+          "menu": true,
+          "to": "/report/performance",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "f56c6a34-29f4-46fc-aae6-e3e1781a3037",
+          "name": "Income",
+          "parent": false,
+          "menu": true,
+          "to": "/report/income",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Import",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Export",
+              "status": true
+            }
+          ]
+        }
+      ],
+      "permission": []
+    },
+    {
+      "menu_id": "a91a5b88-1860-45c2-aa6d-a4fd5aed192a",
+      "name": "Audit Trail",
+      "parent": true,
+      "menu": true,
+      "to": "/audit-trails",
+      "icon": "app:file-search-02",
+      "child": [],
+      "permission": [
+        {
+          "action": "View",
+          "status": true
+        },
+        {
+          "action": "Export",
+          "status": true
+        }
+      ]
+    },
+    {
+      "menu_id": "bce31438-3382-4016-a59b-f20a34b46586",
+      "name": "Setting",
+      "parent": true,
+      "menu": true,
+      "to": "/setting",
+      "icon": "app:settings-01",
+      "child": [
+        {
+          "menu_id": "92bac21f-a942-49e0-bee4-eeaec7a22da4",
+          "name": "About Us",
+          "parent": false,
+          "menu": true,
+          "to": "/setting/about-us",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "34700a2e-2840-4a33-813b-b2c4c47bb4f7",
+          "name": "Terms And Conditions",
+          "parent": false,
+          "menu": true,
+          "to": "/setting/terms-and-conditions",
+          "icon": "",
+          "permission": [
+            {
+              "action": "View",
+              "status": true
+            },
+            {
+              "action": "Update",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "e276cfe3-0497-4f57-8427-dba670539cc0",
+          "name": "Privacy Policy",
+          "parent": false,
+          "menu": true,
+          "to": "/setting/privacy-policy",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        },
+        {
+          "menu_id": "49542023-2e19-4525-a896-9dfb5bf5817f",
+          "name": "Account Deletion Policy",
+          "parent": false,
+          "menu": true,
+          "to": "/setting/delete-account-policy",
+          "icon": "",
+          "permission": [
+            {
+              "action": "Update",
+              "status": true
+            },
+            {
+              "action": "View",
+              "status": true
+            }
+          ]
+        }
+      ],
+      "permission": []
+    },
+    {
+      "menu_id": "324b831c-4fe0-4bc1-9d2b-536db48f2b74",
+      "name": "Job Posting",
+      "parent": true,
+      "menu": true,
+      "to": "/job-posting-partner",
+      "icon": "app:briefcase-01",
+      "child": [],
+      "permission": []
+    },
+    {
+      "menu_id": "cd3cea40-a324-48f0-b8c5-97ef51f5c026",
+      "name": "Job Placement",
+      "parent": true,
+      "menu": true,
+      "to": "/job-placement",
+      "icon": "app:clipboard",
+      "child": [],
+      "permission": []
+    }
+  ]
+}
